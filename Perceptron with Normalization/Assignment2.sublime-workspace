@@ -1,0 +1,291 @@
+{
+	"auto_complete":
+	{
+		"selected_items":
+		[
+		]
+	},
+	"buffers":
+	[
+		{
+			"contents": "TO DO \n1. Machine Learning Assignment\n2. DSRC Project Setup\n3. Shell Options menu\n4. SQL Injection\n	Stored Procedures in SQL\n	Prepared Statements in SQL\n	Tutorial Setup in Ubuntu\n\n\n$ dpkg -s apache-perl\n\n$ dpkg-query -l 'libc6*'\n\n$ dpkg-query -W -f='${Status} ${Version}\\n' apache-perl\n\n\ntar –Pjxvf locomate­toolchain.tar.bz2 \ntar –Pjxvf locomate­mips.tar.bz2 \ntar –Pjxvf locomate­x86.tar.bz2 \n\n\n 	LocoMate Toolchain [Posted Jan/24/2012]\nSize: 55.1 MB, md5sum: a8b397f523c32496a3ea0b79f2eca54e\n	LocoMate Changelist File [Posted May/02/2012]\nSize: 457.22 KB, md5sum: 5b2a00ec5158b7dfbb0495239f271bd9\n	LocoMate asn1c Library [Posted May/02/2012]\nSize: 289.35 KB, md5sum: f9ebbb80fdc60656425b41c7820b2aa7\n	LocoMate Toolchain_2013 [Posted Jan/31/2015]\nSize: 35.4 MB, md5sum: 8cd5af70299f79652ef48e146ab046bd\n	Locomate-x86 Source (Version 1.90) [Posted Jan/31/2015]\nSize: 7.6 MB, md5sum: 84b6612762e30c9470648b3dbc18ab85\n	Locomate-mips Source (Version 1.90) [Posted MAR/30/2015]\nSize: 755.94 KB, md5sum: 9d97302ed5b970ab085cac064ca407db\n	LocoMate Toolchain_2013_64bit [Posted June/10/2015]\nSize: 30.78 MB, md5sum: b0ec9231df553fd7d9a86f56d555b01d\n	Library for x86-64 [Posted June/10/2015]\nSize: 220.8 KB, md5sum: e305c585df69c67ceeef0fb8bfdfaa96",
+			"settings":
+			{
+				"buffer_size": 1240,
+				"line_ending": "Unix",
+				"name": "TO DO"
+			}
+		},
+		{
+			"file": "/media/enigma/Backup/University of Idaho/2nd Semester/Machine Learning and Data Mining/Assignments/Assignment 3/Assignment3.sublime-project",
+			"settings":
+			{
+				"buffer_size": 338,
+				"line_ending": "Unix"
+			}
+		},
+		{
+			"file": "Assignment2.sublime-project",
+			"settings":
+			{
+				"buffer_size": 338,
+				"line_ending": "Unix"
+			}
+		}
+	],
+	"build_system": "",
+	"build_system_choices":
+	[
+	],
+	"build_varint": "",
+	"command_palette":
+	{
+		"height": 58.0,
+		"last_filter": "add",
+		"selected_items":
+		[
+			[
+				"add",
+				"Project: Add Folder"
+			]
+		],
+		"width": 294.0
+	},
+	"console":
+	{
+		"height": 90.0,
+		"history":
+		[
+			"make"
+		]
+	},
+	"distraction_free":
+	{
+		"menu_visible": true,
+		"show_minimap": false,
+		"show_open_files": false,
+		"show_tabs": false,
+		"side_bar_visible": false,
+		"status_bar_visible": false
+	},
+	"expanded_folders":
+	[
+		"/media/enigma/Backup/University of Idaho/2nd Semester/Machine Learning and Data Mining/Assignments/Assignment 2"
+	],
+	"file_history":
+	[
+		"/media/enigma/Backup/University of Idaho/2nd Semester/Machine Learning and Data Mining/Assignments/Assignment 3/irisTestExpected.txt",
+		"/media/enigma/Backup/University of Idaho/2nd Semester/Machine Learning and Data Mining/Assignments/Assignment 3/mlp.sublime-project"
+	],
+	"find":
+	{
+		"height": 0.0
+	},
+	"find_in_files":
+	{
+		"height": 0.0,
+		"where_history":
+		[
+		]
+	},
+	"find_state":
+	{
+		"case_sensitive": false,
+		"find_history":
+		[
+		],
+		"highlight": true,
+		"in_selection": false,
+		"preserve_case": false,
+		"regex": false,
+		"replace_history":
+		[
+		],
+		"reverse": false,
+		"show_context": true,
+		"use_buffer2": true,
+		"whole_word": false,
+		"wrap": true
+	},
+	"groups":
+	[
+		{
+			"selected": 2,
+			"sheets":
+			[
+				{
+					"buffer": 0,
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 1240,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								1240,
+								1240
+							]
+						],
+						"settings":
+						{
+							"auto_name": "TO DO",
+							"syntax": "Packages/Text/Plain text.tmLanguage"
+						},
+						"translation.x": 0.0,
+						"translation.y": 150.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 2,
+					"type": "text"
+				},
+				{
+					"buffer": 1,
+					"file": "/media/enigma/Backup/University of Idaho/2nd Semester/Machine Learning and Data Mining/Assignments/Assignment 3/Assignment3.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 338,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								338,
+								338
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 1,
+					"type": "text"
+				},
+				{
+					"buffer": 2,
+					"file": "Assignment2.sublime-project",
+					"semi_transient": false,
+					"settings":
+					{
+						"buffer_size": 338,
+						"regions":
+						{
+						},
+						"selection":
+						[
+							[
+								303,
+								303
+							]
+						],
+						"settings":
+						{
+							"syntax": "Packages/JavaScript/JSON.sublime-syntax",
+							"translate_tabs_to_spaces": false
+						},
+						"translation.x": 0.0,
+						"translation.y": 0.0,
+						"zoom_level": 1.0
+					},
+					"stack_index": 0,
+					"type": "text"
+				}
+			]
+		}
+	],
+	"incremental_find":
+	{
+		"height": 0.0
+	},
+	"input":
+	{
+		"height": 0.0
+	},
+	"layout":
+	{
+		"cells":
+		[
+			[
+				0,
+				0,
+				1,
+				1
+			]
+		],
+		"cols":
+		[
+			0.0,
+			1.0
+		],
+		"rows":
+		[
+			0.0,
+			1.0
+		]
+	},
+	"menu_visible": true,
+	"output.find_results":
+	{
+		"height": 0.0
+	},
+	"pinned_build_system": "",
+	"project": "Assignment2.sublime-project",
+	"replace":
+	{
+		"height": 0.0
+	},
+	"save_all_on_build": true,
+	"select_file":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"select_project":
+	{
+		"height": 375.0,
+		"last_filter": "",
+		"selected_items":
+		[
+			[
+				"",
+				"/media/enigma/Backup/University of Idaho/2nd Semester/Machine Learning and Data Mining/Assignments/Assignment 3/Assignment3.sublime-project"
+			]
+		],
+		"width": 285.0
+	},
+	"select_symbol":
+	{
+		"height": 0.0,
+		"last_filter": "",
+		"selected_items":
+		[
+		],
+		"width": 0.0
+	},
+	"selected_group": 0,
+	"settings":
+	{
+	},
+	"show_minimap": true,
+	"show_open_files": false,
+	"show_tabs": true,
+	"side_bar_visible": true,
+	"side_bar_width": 150.0,
+	"status_bar_visible": true,
+	"template_settings":
+	{
+	}
+}

@@ -1,0 +1,23 @@
+{
+	"folders":
+	[
+		{
+			"file_exclude_patterns":
+			[
+				"._*",
+				"*.bak",
+				"*.ico",
+				"*.sample",
+				"*.swf",
+				"*.tar",
+				"*.tgz",
+				"wp-*.php",
+				"*.zip"
+			],
+			"path": "/media/enigma/Backup/University of Idaho/2nd Semester/Machine Learning and Data Mining/Assignments/Assignment 2"
+		},
+		{
+			"path": "."
+		}
+	]
+}
